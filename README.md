@@ -28,7 +28,7 @@
 ---
 
 ## Projects
-- **FindMyCI** (2024 - Present)  
+- **FindMyCI** (2024)  
 Supplied car state inspection prices to users through a simple zipcode search interface, which helped residents in the greater Norristown, Pennsylvania area save up to $62 dollars on their yearly car inspections
 - **Data Miner - Upwork** (2019 - 2020)  
 Engineered custom scripts to address the data curation and analysis needs of clients, which helped them make informed real estate and consumer product pricing decisions 

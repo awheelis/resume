@@ -15,7 +15,7 @@
 - Engineered few-shot similarity search system to identify patterns across 16M+ items using only 5 examples by implementing SimCLR self-supervised learning and optimizing Polars for 4B+ row processing
 - Implemented multiple state-of-the-art Neural Radiance Field research papers for novel view synthesis by adapting open-source models in PyTorch/Nerfstudio, successfully meeting all research milestones on time and under budget
 - Enhanced machine learning model performance through the creation of a Python Polars heuristic labeler and Pytorch sharpness aware minimization model, which improved the model F1 score from near-zero to 0.4, enabling successful prediction of state changes and securing additional contract work
-- Led program team as Scrum Master using Jira, Bitbucket, and Confluence for 6.5 months, and implemented structured backlog grooming processes that increased sprint velocity rates by 50% (CHECK THIS) and reduced meeting overhead, while consistently meeting program milestones
+- Led program team as Scrum Master using Jira, Bitbucket, and Confluence for 6.5 months, and implemented structured backlog grooming processes that increased sprint velocity and reduced meeting overhead, while consistently meeting program milestones
 
 
 

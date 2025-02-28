@@ -1,4 +1,4 @@
-# Alex Wheelis
+# George "Alex" Wheelis
 
 **Email:** alexwheelis0@gmail.com  
 **LinkedIn:** [linkedin.com/in/alexwheelis](https://www.linkedin.com/in/alexwheelis)  

@@ -39,8 +39,8 @@ Engineered custom scripts to address the data curation and analysis needs of cli
 ## Education
 
 ### North Carolina State University  
-- **MS in Electrical Engineering** (2024)  
-- **BS in Computer Engineering** (2023)  
+- **[MS in Electrical Engineering](https://drive.google.com/file/d/16U8k8-wtdsJ2hWBcWW8PheYKh6hWz7ZQ/view)** (2024)  
+- **[BS in Computer Engineering](https://drive.google.com/file/d/1Ye0zq0WSjeDE6VBgTsj1lh4OZQIReVK-/view)** (2023)  
 
 ### Certifications
 - **[Professional Scrum Master 1](https://www.scrum.org/certificates/1067965)** (2024)

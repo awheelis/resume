@@ -10,7 +10,7 @@
 
 ## Experience
 
-### AI/ML Engineer, Arka (2023 - Present) - King of Prussia, PA  
+### AI/ML Engineer, Arka (05/2023 - Present) - King of Prussia, PA  
 - Secured $1M contract after placing first among all competing teams in a two week competition by delivering a heuristic path prediction algorithm that outperformed dead reckoning baselines
 - Engineered few-shot similarity search system to identify patterns across 16M+ items using only 5 examples by implementing SimCLR self-supervised learning and optimizing Polars for 4B+ row processing
 - Implemented multiple state-of-the-art Neural Radiance Field research papers for novel view synthesis by adapting open-source models in PyTorch/Nerfstudio, successfully meeting all research milestones on time and under budget

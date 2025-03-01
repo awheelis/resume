@@ -28,7 +28,7 @@
 ---
 
 ## Projects
-- **[FindMyCI](https://alexw.pythonanywhere.com/)** (2024)  
+- **[FindMyCI](https://alexw.pythonanywhere.com/)** (2024 - Present)  
 Supplied car state inspection prices to users through a simple zipcode search interface, which helped residents in the greater Norristown, Pennsylvania area compare prices and save up to $62 dollars on their yearly car inspections
 - **Data Miner - Upwork** (2019 - 2020)  
 Engineered custom scripts to address the data curation and analysis needs of clients, which helped them make informed real estate and consumer product pricing decisions 
@@ -41,3 +41,7 @@ Engineered custom scripts to address the data curation and analysis needs of cli
 ### North Carolina State University  
 - **MS in Electrical Engineering** (2024)  
 - **BS in Computer Engineering** (2023)  
+
+### Certifications
+- **[Professional Scrum Master 1](https://www.scrum.org/certificates/1067965)** (2024)
+- **[Deep Learning Specialization by DeepLearning.ai](https://www.coursera.org/account/accomplishments/specialization/XE67NZGY4SXF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)** (2020)

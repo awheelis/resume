@@ -4,7 +4,7 @@
 **LinkedIn:** [linkedin.com/in/alexwheelis](https://www.linkedin.com/in/alexwheelis)  
 **GitHub:** [github.com/awheelis](https://github.com/awheelis)  
 **Mobile:** +1 (252) 361-2947  
-**Active TS/SCI Clearance**  
+**Active TS/SCI with CI Poly**  
 
 ---
 
